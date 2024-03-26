@@ -1,1 +1,1 @@
-mongodb://akhtar:<password>@ac-gmbmw02-shard-00-00.uvx6ru7.mongodb.net:27017,ac-gmbmw02-shard-00-01.uvx6ru7.mongodb.net:27017,ac-gmbmw02-shard-00-02.uvx6ru7.mongodb.net:27017/?replicaSet=atlas-af6exf-shard-0&ssl=true&authSource=admin
+
